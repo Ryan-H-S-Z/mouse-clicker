@@ -1,0 +1,21 @@
+Mouse Clicker 1.0.0
+
+Requires macOS 13 or later. Supports Apple Silicon and Intel.
+The app interface is currently in Simplified Chinese.
+
+1. Drag 鼠标连点器.app into Applications.
+2. Launch the installed app, then eject the disk image.
+3. Click 前往授权 (Grant permission), then enable the app in
+   System Settings > Privacy & Security > Accessibility.
+4. Set the click interval, button and count. Click 开始连点 (Start),
+   then move the pointer to the target within three seconds.
+
+Control + Option + Space: start / stop.
+Esc: stop.
+
+This release is ad-hoc signed, without Apple Developer ID signing or notarization.
+macOS may block the first launch after downloading. If you trust the source,
+follow the Open Anyway instructions in System Settings > Privacy & Security
+after attempting to open the app. Do not disable system-wide security.
+
+No source code, Xcode or Swift installation is required.
